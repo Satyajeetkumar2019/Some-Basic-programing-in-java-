@@ -1,0 +1,22 @@
+import java.util.Scanner;
+class ARM { 
+
+	public static void main(String[] args) {
+	Scanner scn=new Scanner(System.in);
+	System.out.println("Enter the any number :");
+	int x=scn.nextInt();
+	int r,a=0;
+	while(x!=0){
+	r=x%10;
+	a=a+r*r*r;
+	x=x/10;
+	
+	
+	
+	}//end while loop
+
+
+
+	//	System.out.println("Hello World!");
+	}//end of the main method
+}//end of the class
