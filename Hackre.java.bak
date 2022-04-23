@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class{
+public static void main(String []args){
+
+Scanner scn=new Scanner(System.in);
+
+System.out.println(" hello   ");
+
+
+
+}//end of thee main method 
+}//end of the class 
